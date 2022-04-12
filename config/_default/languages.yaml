@@ -5,18 +5,52 @@
 # Default language
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+fr:
+  languageCode: fr
+  title: French website title..
+  contentDir: content/fr
+  params:
+    description: Site description in French...
+  menu:
+    main:
+      - name: Membres
+        url: people
+        weight: 10
+      - name: Plateformes
+        url: event
+        weight: 20
+      - name: Ouvrages
+        url: publication
+        weight: 30
+      - name: Nouvelles
+        url: post
+        weight: 40
+      - name: Rejoindre
+        url: contact
+        weight: 50
+
+zh:
+  languageCode: zh-Hans
+  title: Chinese website title..
+  contentDir: content/zh
+  params:
+    description: Site description in Chinese...
+  menu:
+    main:
+      - name: 成员
+        url: people
+        weight: 10
+      - name: 平台
+        url: event
+        weight: 30
+      - name: 出版物
+        url: publication
+        weight: 40
+      - name: 消息
+        url: post
+        weight: 20
+      - name: 加入
+        url: contact
+        weight: 50
