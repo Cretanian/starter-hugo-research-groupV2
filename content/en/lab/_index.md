@@ -8,8 +8,8 @@ design:
   columns: '1'
 ---
 
-The **SAMS (...) Lab** is lead by Professor Georgios Bouloukakis. The lab was created after the ICS-FORTH (Institute of Computer Science - Foundation for Research & Technology - Hellas) 
-and the ETOILE (Espaces et Technologie s Ouverts pour l'Innovation des Laboratoires et des Entreprises), located in Telecom SudParis campus -France,
+The **SAMS (...) Lab** is lead by Professor Georgios Bouloukakis. The lab was created after the [ICS-FORTH (Institute of Computer Science - Foundation for Research & Technology - Hellas)](https://www.ics.forth.gr/about-ics) 
+and the [ETOILE (Espaces et Technologie s Ouverts pour l'Innovation des Laboratoires et des Entreprises)](https://www.telecom-sudparis.eu/recherche/etoile/), located in [Telecom SudParis](https://www.telecom-sudparis.eu/) campus -France,
 decided to form a collaboration in 2021.
 
 ## Research
@@ -26,4 +26,4 @@ with research.
 ## Visiting
 Let us know if you would like to visit. [**Here**](https://www.telecom-sudparis.eu/actualite/la-journee-portes-ouvertes-de-telecom-sudparis/) 
 is more information explaining how to reach Télécom SudParis and the ETOILE research building. 
-Also by clicking [**Here**](https://www.virtual-tour-360.online/visite-virtuelle/telecom-sudparis/) you have a full 360 interaction of the Télécom SudParis campus.
+Also by clicking [**here**](https://www.virtual-tour-360.online/visite-virtuelle/telecom-sudparis/) you have a full 360 interaction of the Télécom SudParis campus.
