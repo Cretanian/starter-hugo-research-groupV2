@@ -18,7 +18,7 @@ content:
   phone: 888 888 88 88
   address:
     street: 9 Rue Charles Fourier
-    city: Courcouronnes FR
+    city: Évry-Courcouronnes
     region: Île-de-France
     postcode: '91000'
     country: France
@@ -47,3 +47,4 @@ content:
 design:
   columns: '1'
 ---
+<br>
