@@ -21,9 +21,5 @@ design:
 <br>
 
 The **SAMS (...) Lab** is lead by Professor Georgios Bouloukakis. 
-Our focus is on smart communiniets, and smart spaces in general, as well as developing midlleware for IoT solutions ...
-
-
-was created after the ICS-FORTH (Institute of Computer Science - Foundation for Research & Technology - Hellas) 
-and the ETOILE (Espaces et Technologie s Ouverts pour l'Innovation des Laboratoires et des Entreprises), located in Telecom SudParis campus -France,
-decided to form a collaboration in 2021. The Lab 
+Our focus is on smart communiniets, and smart spaces in general, 
+as well as developing midlleware for IoT solutions ...
