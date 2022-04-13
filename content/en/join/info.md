@@ -59,6 +59,7 @@ one page or less explaining why you’d like to work in our lab (PDF).
 To write this well, I suggest you look at some of our papers from the last few years to 
 orient yourself to our current projects. Make the subject of your email “Undergrad Application” 
 and send this to Prof. Josephson.
+
 <br>
 
 ## Undergraduate Students
@@ -78,12 +79,14 @@ If you’re interested in Ph.D. with either direct or general admit, or in thesi
 project-based masters research (majoring in Chem E and/or CS), reach out to Prof. Josephson 
 by email with your: (1) CV, (2) a description of research experience and interests, and (3) 
 specific information about why the ATOMS Lab interests you.
+
 <br>
 
 ## Postdoctoral Fellows
 If you’re interested in a postdoc position, reach out to Prof. Josephson by email 
 with your CV and statement of research interests and background.
 
+<br>
 
 #### Student testimonials:
 “To me, the best part of working in ATOMS Lab is that I can work closely with Dr. Josephson. 

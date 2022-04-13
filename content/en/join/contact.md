@@ -10,7 +10,6 @@ headless: true
 weight: 20
 
 title: Contact
-subtitle:
 
 content:
   # Contact (edit or remove options as required)
