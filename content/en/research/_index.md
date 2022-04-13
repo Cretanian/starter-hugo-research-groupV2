@@ -10,7 +10,7 @@ design:
 
 The **SAMS (...) Lab** focuses on four main areas of reseach:
 
-maybe icons here?
+maybe icons here? maybe photos?
 
 The global IoT market size is projected to reach $1,000B by 2026 with dozens of billions of smart devices 
 connected to the Internet by then. The expectations of individuals with respect to their privacy are also 

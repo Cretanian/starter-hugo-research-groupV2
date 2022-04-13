@@ -11,22 +11,74 @@ design:
   columns: '1'
 ---
 
-The **SAMS (...) Lab** is lead by Professor Georgios Bouloukakis. The lab was created after the [ICS-FORTH (Institute of Computer Science - Foundation for Research & Technology - Hellas)](https://www.ics.forth.gr/about-ics) 
-and the [ETOILE (Espaces et Technologie s Ouverts pour l'Innovation des Laboratoires et des Entreprises)](https://www.telecom-sudparis.eu/recherche/etoile/), located in [Telecom SudParis](https://www.telecom-sudparis.eu/) campus -France,
-decided to form a collaboration in 2021.
+Our lab welcomes applicants from any race, ethnicity, religion, national origin, gender identity, 
+gender expression, caregiver and family commitments, political affiliation, sexual orientation, 
+and eligible age or disability status. Furthermore, we are committed to maintaining a supportive 
+and collaborative lab environment.
 
-## Research
-Our research focuses on four main areas of reseach: IoT, Smart Communities & Spaces, Middleware, and the Digital Twins.
+## Undergraduate Students
+Students majoring in Chemical Engineering and/or Computer Science are encouraged to apply.
 
-## Joining us
-We are always interested in working with new people. We hold weekly research meetings during the academic 
-year that are open to visitors. You are welcome to join us to find out what we are working on. 
-Please contact us if you are in government or industry and interested in collaborative research, 
-are a prospective graduate student interest in applying our graduate programs, or are currently a 
-Télécom SudParis or Computer Science Department undergraduate student who would like to get involved 
-with research.
+* Previous research experience is not required.
+* Students must be able to work an average of 10 hour per week.
+* Demonstrated leadership and collaboration experience is a plus.
+* Strong communication skills (written and oral) are a plus.
+* For Chem E students, prior experience coding is a plus (but not required).
+* For CS students, prior experience in chemistry is a plus (but not required).
 
-## Visiting
-Let us know if you would like to visit. [**Here**](https://www.telecom-sudparis.eu/actualite/la-journee-portes-ouvertes-de-telecom-sudparis/) 
-is more information explaining how to reach Télécom SudParis and the ETOILE research building. 
-Also by clicking [**here**](https://www.virtual-tour-360.online/visite-virtuelle/telecom-sudparis/) you have a full 360 interaction of the Télécom SudParis campus.
+### Why do research?
+Through undergraduate research, you’ll: 
+1) learn about the latest questions currently under scientific investigation and approaches 
+being used to tackle them, 2) help solve real and important scientific problems, and 
+3) gain valuable experience in critical thinking, problem solving, collaboration, and communication.
+### What will you do?
+The ATOMS Lab is focused on developing and using computational chemistry and artificial 
+intelligence tools for solving engineering problems. Undergraduate researchers will generally 
+work on one of two tracks: 1) simulating properties of molecules, or 2) building/using AI tools 
+for discovering Chemical Engineering theories. These may involve activities such as running 
+molecular simulations on a supercomputer or writing/running code for AI.
+
+### What are the hours for the position?
+Apart from attendance at weekly group meetings, students are free to work according to a 
+flexible schedule. So far during COVID, all work has been remote, though we do have a lab 
+office under construction for future use.
+
+### How do I apply?
+If you’re interested in applying for a lab position or for research credit, you must 
+read ATOMS Lab Undergraduate Research Agreement carefully to make sure you understand 
+what’s involved. Then include in a single email: (1) your resume (PDF), (2) unofficial 
+copy of your transcript (PDF); freshman can send high school transcript (PDF), and (3) 
+one page or less explaining why you’d like to work in our lab (PDF).
+To write this well, I suggest you look at some of our papers from the last few years to 
+orient yourself to our current projects. Make the subject of your email “Undergrad Application” 
+and send this to Prof. Josephson.
+
+## Undergraduate Students
+Students interested in pursuing a Ph.D. should apply to UMBC CBEE doctoral programs. 
+Admission is determined by the department faculty committee where students are either 
+admitted as direct admits or general admits.
+
+Direct admit students have agreed to work in a particular faculty’s research lab upon 
+their arrival at UMBC, and the faculty has agreed to serve as the student’s dissertation 
+advisor and provide funding.
+
+General admit students go through research rotations in their first year, which allows 
+students to clarify student-faculty interest and develop optimal student-faculty matches. 
+Learn more about rotations in the ATOMS lab.
+
+If you’re interested in Ph.D. with either direct or general admit, or in thesis or 
+project-based masters research (majoring in Chem E and/or CS), reach out to Prof. Josephson 
+by email with your: (1) CV, (2) a description of research experience and interests, and (3) 
+specific information about why the ATOMS Lab interests you.
+
+## Postdoctoral Fellows
+If you’re interested in a postdoc position, reach out to Prof. Josephson by email 
+with your CV and statement of research interests and background.
+
+### Student testimonials:
+“To me, the best part of working in ATOMS Lab is that I can work closely with Dr. Josephson. 
+The guidance as well as insights from him keep me moving forward to the research goal. Beside 
+research, we also have different activities and workshops to provide students with soft skills 
+to enhance their potential. Last but not least, the lab environment is very friendly and supportive; 
+lab members always offer help to others so we work as a team rather than a competition. I feel very 
+happy to be a part of ATOMS Lab.” – Neil Tran, B.S. Chemical Engineering, 2021
