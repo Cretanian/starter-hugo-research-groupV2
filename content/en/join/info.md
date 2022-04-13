@@ -26,11 +26,16 @@ Students majoring in Chemical Engineering and/or Computer Science are encouraged
 * For Chem E students, prior experience coding is a plus (but not required).
 * For CS students, prior experience in chemistry is a plus (but not required).
 
+<br>
+
 ##### Why do research?
 Through undergraduate research, you’ll: 
 1) learn about the latest questions currently under scientific investigation and approaches 
 being used to tackle them, 2) help solve real and important scientific problems, and 
 3) gain valuable experience in critical thinking, problem solving, collaboration, and communication.
+
+<br>
+
 ##### What will you do?
 The ATOMS Lab is focused on developing and using computational chemistry and artificial 
 intelligence tools for solving engineering problems. Undergraduate researchers will generally 
@@ -38,10 +43,14 @@ work on one of two tracks: 1) simulating properties of molecules, or 2) building
 for discovering Chemical Engineering theories. These may involve activities such as running 
 molecular simulations on a supercomputer or writing/running code for AI.
 
+<br>
+
 ##### What are the hours for the position?
 Apart from attendance at weekly group meetings, students are free to work according to a 
 flexible schedule. So far during COVID, all work has been remote, though we do have a lab 
 office under construction for future use.
+
+<br>
 
 ##### How do I apply?
 If you’re interested in applying for a lab position or for research credit, you must 
@@ -74,6 +83,8 @@ specific information about why the ATOMS Lab interests you.
 ## Postdoctoral Fellows
 If you’re interested in a postdoc position, reach out to Prof. Josephson by email 
 with your CV and statement of research interests and background.
+
+<br>
 
 ##### Student testimonials:
 “To me, the best part of working in ATOMS Lab is that I can work closely with Dr. Josephson. 
