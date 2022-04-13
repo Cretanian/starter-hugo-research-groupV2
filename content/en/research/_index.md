@@ -22,5 +22,5 @@ become useful, but sometimes sensitive, inferences that applications and people 
 we deal with upcoming challenges in IoT data management, especially due to the massive scale and 
 heterogeneity of data and strong privacy requirements. In particular, we aim to:
 
-> * bullet 1 
-> * bullet 2 
+* bullet 1 
+* bullet 2 

@@ -3,7 +3,7 @@ widget: portfolio
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: My Projects
+title: Projects
 subtitle: ''
 
 content:
@@ -11,7 +11,7 @@ content:
   filters:
     # Folders to display content from
     folders:
-      - project
+      - projects
     # Uncomment below to only show content with specific tags:
 #    tags:
 #      - Machine Learning
@@ -44,5 +44,3 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-
-<br>
