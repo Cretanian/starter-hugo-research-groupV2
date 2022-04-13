@@ -7,13 +7,11 @@ title: Projects
 subtitle: ''
 
 content:
-  page_type: projects
-
   # Choose which content to display in the widget
-  # filters:
-  #   # Folders to display content from
-  #   folders:
-  #     - projects
+  filters:
+    # Folders to display content from
+    folders:
+      - projects
     # Uncomment below to only show content with specific tags:
 #    tags:
 #      - Machine Learning
