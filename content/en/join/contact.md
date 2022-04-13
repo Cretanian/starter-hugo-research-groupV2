@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-# title: Contact
+title: Contact
 
 content:
   # Contact (edit or remove options as required)
@@ -19,7 +19,7 @@ content:
   address:
     street: 9 Rue Charles Fourier
     city: Courcouronnes FR
-    region: CA
+    region: Île-de-France
     postcode: '91000'
     country: France
     country_code: FR
@@ -47,5 +47,3 @@ content:
 design:
   columns: '1'
 ---
-
-# Contact
