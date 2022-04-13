@@ -9,20 +9,20 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Contact
+# title: Contact
 
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
+  email: georgios.bouloukakis@telecom-sudparis.eu
   phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
+    street: 9 Rue Charles Fourier
+    city: Courcouronnes FR
     region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    postcode: '91000'
+    country: France
+    country_code: FR
   coordinates:
     longitude: '2.443393315594366'
     latitude: '48.625245547208046'
@@ -31,11 +31,6 @@ content:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
   appointment_url: 'https://calendly.com'
-  contact_links:
-   - icon: comments
-     icon_pack: fas
-     name: Discuss on Forum
-     link: 'https://discourse.gohugo.io'
 
   # Automatically link email and phone or display as text?
   autolink: true
@@ -52,3 +47,5 @@ content:
 design:
   columns: '1'
 ---
+
+# Contact
