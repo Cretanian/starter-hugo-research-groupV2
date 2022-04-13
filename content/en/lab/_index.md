@@ -1,13 +1,13 @@
 ---
 widget: blank
 headless: true
+title: About Us
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
 
-# About Us
 The **SAMS (...) Lab** is lead by Professor Georgios Bouloukakis. The lab was created after the ICS-FORTH (Institute of Computer Science - Foundation for Research & Technology - Hellas) 
 and the ETOILE (Espaces et Technologie s Ouverts pour l'Innovation des Laboratoires et des Entreprises), located in Telecom SudParis campus -France,
 decided to form a collaboration in 2021.
