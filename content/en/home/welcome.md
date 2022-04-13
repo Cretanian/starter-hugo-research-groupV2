@@ -22,4 +22,4 @@ The **SAMS (...) Lab** is lead by Professor Georgios Bouloukakis.
 Our focus is on smart communiniets, and smart spaces in general, 
 as well as developing midlleware for IoT solutions ...
 
-{{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+{{% cta cta_link="./members/" cta_text="Meet the team →" %}}
