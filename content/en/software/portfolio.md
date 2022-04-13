@@ -38,4 +38,3 @@ design:
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
 ---
-<br>
