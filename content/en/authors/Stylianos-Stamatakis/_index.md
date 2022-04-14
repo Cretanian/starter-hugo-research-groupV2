@@ -67,16 +67,14 @@ highlight_name: false
 user_groups:
   - BS Students
   - Researchers
-  - Visitors
-  - Alumni
+
 ---
 
 After finishing my bachelor's degree in Computer Science, I fell in love with the data engineering world 
 and the information technology field in general. I also enjoy working with new technologies in IoT-Enabled 
 Smart Buildings. In this thesis, I have successfully modeled with precision the interior of buildings using 
 the FIWARE-NGSI protocol. To succeed, I extended the basic building data model provided by the FIWARE foundation 
-and created data models by considering spatial properties. I demonstrate our modeling approach by implementing a 
-prototype using the NGSI-based Orion context broker. In my spare time, I enjoy learning new things about data engineering 
-technologies, training, and playing Dungeon and Dragons with my friends!
+and created data models by considering spatial properties. I demonstrate our modeling approach using the NGSI-based 
+Orion context broker. In my spare time, I enjoy training, and playing Dungeon and Dragons with my friends!
 
 **BSc Thesis title**: Prototyping smart community IoT applications via the NGSI protocol (2021-2022)
