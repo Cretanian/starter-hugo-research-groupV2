@@ -10,7 +10,7 @@ athors:
 superuser: false
 
 # Role/position
-role: MS Student
+role: MS Student (Télécom SudParis, Université Jean Monnet, and Ecole des Mines Saint Etienne)
 
 # Organizations/Affiliations
 organizations:
@@ -72,5 +72,5 @@ user_groups:
 Isaac is a member of the SAMS Lab at Telecom Sud Paris and the Seido Lab at EDF.  His research interests include IoT and Smart Spaces, the Semantic Web, and Human-Computer Interaction.  He is a  student of the "Cyber-Physical Social Systems" master's program jointly run by the University of Lyon, Jean Monnet University, and Mines Saint-Étienne. He likes to travel, meet new people and swim.
 
 **BSc Thesis title**: Design and Implementation of an Automated Attendance and Records System (2018)
-​
+
 **MSc Thesis title**: Policy-aware Data Exchange in Multi-tenant IoT-enhanced Buildings (2022)
