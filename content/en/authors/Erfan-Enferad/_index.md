@@ -47,7 +47,7 @@ social:
     link: 'erfanenferad@gmail.com'
   - icon: linkedin
     icon_pack: fab
-    link: 'linkedin.com/in/erfan-enferad-282298132/'
+    link: 'https://www.linkedin.com/in/erfan-enferad-282298132/'
 #icons linkedin, github, home
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -59,6 +59,7 @@ user_groups:
   - MS Students
 
 ---
+# Biography
 
 I am a computer science enthusiast, moreover, I have a background in the fields of IoT, mobile app development, hardware design, web development, and cybersecurity.
 I tried different languages and system designing elements related to my field of study in order to fulfill my passion for computer science.
