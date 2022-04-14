@@ -7,13 +7,8 @@ en:
   languageCode: en-us
   contentDir: content/en
 
-fr:
-  languageCode: fr
-  title: French website title..
-  contentDir: content/fr
 
 
 zh:
   languageCode: zh-Hans
-  title: Chinese website title..
   contentDir: content/zh

@@ -24,17 +24,23 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Middleware
+      tag: middleware
+    - name: Smart Spaces
+      tag: spaces
+    - name: Active
+      tag: active
+    - name: IoT
+      tag: iot
+    - name: QoS
+      tag: qos
+    - name: SOA
+      tag: soa
 
 design:
-  columns: '1'
-  view: masonry
-  flip_alt_rows: true
+  columns: '2'
+  view: Card
+  flip_alt_rows: false
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
 ---

@@ -4,8 +4,8 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Lab
-    url: lab
+  - name: The Labs
+    url: labs
     weight: 10
   - name: Research
     url: research
@@ -19,3 +19,6 @@ main:
   - name: Join
     url: join
     weight: 50
+  - name: About Us
+    url: aboutUs
+    weight: 60

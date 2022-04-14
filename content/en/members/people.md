@@ -6,11 +6,8 @@ widget: people
 # This file represents a page section.
 headless: true
 
-# Order that this section appears on the page.
-# weight: 68
-
 title: Meet the Team
-
+subtitle:
 
 content:
   # Choose which groups/teams of users to display.
@@ -18,12 +15,21 @@ content:
   user_groups:
     - Principal Investigators
     - Researchers
-    - Grad Students
     - Administration
     - Visitors
     - Alumni
+    - Postdoc Researchers
+    - PhD Students
+    - MS Students
+    - BS Students
+    - Former PhD Students
+    - Former BS Students
+    - Former MS Students
+  
 design:
-  show_interests: false
+  show_organizations: true
+  show_interests: true
   show_role: true
   show_social: true
+
 ---
