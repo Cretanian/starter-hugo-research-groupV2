@@ -19,6 +19,9 @@ organizations:
   - name: Lebanese University
     url: "https://ul.edu.lb/"
 
+# Short bio (displayed in user profile at end of posts)
+bio: I'm a PhD student at Télécom SudParis/IP Paris, working on IoT systems for smart communities by leveraging mathematical-based modelling approaches and state-of-the-art technologies.
+# bio: My research interests include Internet of Things, Data Engineering and programmable matter.
 
 interests:
   - Internet of Things
