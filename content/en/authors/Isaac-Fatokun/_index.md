@@ -3,7 +3,7 @@
 title: Isaac Fatokun
 ​
 # Username (this should match the folder name)
-authors:
+athors:
   - Isaac-Fatokun
 ​
 # Is this the primary user of the site?
@@ -67,8 +67,7 @@ highlight_name: false
 user_groups:
   - MS Students
 ---
-
-​# Biography
+# Biography
 
 Isaac is a member of the SAMS Lab at Telecom Sud Paris and the Seido Lab at EDF.  His research interests include IoT and Smart Spaces, the Semantic Web, and Human-Computer Interaction.  He is a  student of the "Cyber-Physical Social Systems" master's program jointly run by the University of Lyon, Jean Monnet University, and Mines Saint-Étienne. He likes to travel, meet new people and swim.
 
