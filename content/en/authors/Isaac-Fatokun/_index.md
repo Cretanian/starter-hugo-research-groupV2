@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Isaac Fatokun
-​
+
 # Username (this should match the folder name)
 athors:
   - Isaac-Fatokun
