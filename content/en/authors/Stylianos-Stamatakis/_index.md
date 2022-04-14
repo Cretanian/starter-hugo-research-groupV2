@@ -16,7 +16,7 @@ role: BS Student
 organizations:
   - name: FORTH ICS
     url: "https://ics.forth.gr/"
-  - name: U of Crete
+  - name: University of Crete
     url: "https://en.uoc.gr/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -67,7 +67,6 @@ highlight_name: false
 user_groups:
   - BS Students
   - Researchers
-
 ---
 
 After finishing my bachelor's degree in Computer Science, I fell in love with the data engineering world 
