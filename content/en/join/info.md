@@ -55,7 +55,7 @@ what’s involved. Then include in a single email: (1) your resume (PDF), (2) un
 copy of your transcript (PDF); freshman can send high school transcript (PDF), and (3) 
 one page or less explaining why you’d like to work in our lab (PDF).
 To write this well, I suggest you look at some of our papers from the last few years to 
-orient yourself to our current projects. Make the subject of your [email](georgios.bouloukakis@telecom-sudparis.eu) 
+orient yourself to our current projects. Make the subject of your [email](mailto:georgios.bouloukakis@telecom-sudparis.eu) 
 “Undergrad Application” and send this to Prof. Georgios.
 
 <br>
@@ -75,14 +75,14 @@ students to clarify student-faculty interest and develop optimal student-faculty
 
 If you’re interested in Ph.D. with either direct or general admit, or in thesis or 
 project-based masters research (majoring in ________), reach out to Prof. Georgios 
-by [email](georgios.bouloukakis@telecom-sudparis.eu) with your: (1) CV, (2) a description 
+by [email](mailto:georgios.bouloukakis@telecom-sudparis.eu) with your: (1) CV, (2) a description 
 of research experience and interests, and (3) 
 specific information about why the SAMS Lab interests you.
 
 <br>
 
 ## Postdoctoral Fellows
-If you’re interested in a postdoc position, reach out to Prof. Georgios by [email](georgios.bouloukakis@telecom-sudparis.eu) 
+If you’re interested in a postdoc position, reach out to Prof. Georgios by [email](mailto:georgios.bouloukakis@telecom-sudparis.eu) 
 with your CV and statement of research interests and background.
 
 <br>

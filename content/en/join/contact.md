@@ -15,7 +15,7 @@ content:
   # Contact (edit or remove options as required)
 
   email: georgios.bouloukakis@telecom-sudparis.eu
-  phone: 0033 652 471 086
+  phone: 0033 6 52 47 10 86
   address:
     street: 9 Rue Charles Fourier
     city: Évry-Courcouronnes
@@ -28,8 +28,9 @@ content:
     latitude: '48.625245547208046'
   directions: Enter Building E and take the the elevator to Office 304 on Floor 3
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Monday ______ to ____'
+    - 'Wednesday ________ to _____'
+    - 'add more here'
 
   # Automatically link email and phone or display as text?
   autolink: true
