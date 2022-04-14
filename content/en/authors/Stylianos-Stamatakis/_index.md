@@ -1,37 +1,43 @@
 ---
 # Display name
-title: Stylianos Stamatakis
+title: Houssam Hajj Hassan
 
 # Username (this should match the folder name)
 authors:
-  - Stylianos-Stamatakis
+  - Houssam-Hajj-Hassan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: BS Student
+role: PhD Student (Télécom SudParis / IP Paris)
 
 # Organizations/Affiliations
 organizations:
-  - name: FORTH ICS
-    url: "https://ics.forth.gr/"
-  - name: University of Crete
-    url: "https://en.uoc.gr/"
+  - name: Télécom SudParis / IP Paris
+    url: "https://www.telecom-sudparis.eu/"
+  - name: Lebanese University
+    url: "https://ul.edu.lb/"
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include Internet of Things, Data Engineering and programmable matter.
+bio: I'm a PhD student at Télécom SudParis/IP Paris, working on IoT systems for smart 
+communities by leveraging mathematical-based modelling approaches and state-of-the-art technologies.
 
 interests:
   - Internet of Things
-  - Data Engineering
-  - Software Enginering
+  - Middleware
+  - Machine learning and AI
 
 education:
   courses:
-    - course: BSc in Computer Science
-      institution: University of Crete
+    - course: PhD in Computer Science
+      institution: Télécom SudParis/IP Paris
+      year: 2024
+    - course: MSc in Computer Science
+      institution: Lebanese University
       year: 2021
+    - course: BE in Computer and Communications Engineering
+      institution: American University of Beirut
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -40,40 +46,37 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'stylianos.stamatakis@gmail.com'
+    link: 'houssam.hajj_hassan@telecom-sudparis.eu'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/stylianos-stamatakis/
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/Cretanian
+    link: 'https://www.linkedin.com/in/houssamhh/'
   - icon: github
     icon_pack: fab
-    link: https://github.com/Cretanian
+    link: 'https://github.com/houssamhh'
+  
+#icons linkedin, github, home
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "stylianos.stamatakis@gmail.com"
+email: "houssam.hajj_hassan@telecom-sudparis.eu"
   
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-  - BS Students
-  - Researchers
+  - PhD Students
+  - Researcher
 ---
+# Biography
 
-After finishing my bachelor's degree in Computer Science, I fell in love with the data engineering world 
-and the information technology field in general. I also enjoy working with new technologies in IoT-Enabled 
-Smart Buildings. In this thesis, I have successfully modeled with precision the interior of buildings using 
-the FIWARE-NGSI protocol. To succeed, I extended the basic building data model provided by the FIWARE foundation 
-and created data models by considering spatial properties. I demonstrate our modeling approach using the NGSI-based 
-Orion context broker. In my spare time, I enjoy training, and playing Dungeon and Dragons with my friends!
+I'm a PhD student at Télécom SudParis/IP Paris, working on designing the next generation IoT systems for smart 
+communities by leveraging mathematical-based modelling approaches and state-of-the-art technologies. 
+My research focuses on equipping middleware-based systems with AI and machine learning capabilities to 
+create Quality-of-Service models for extensible and dependable IoT systems.
 
-**BSc Thesis title**: Prototyping smart community IoT applications via the NGSI protocol (2021-2022)
+**PhD Thesis title**: Designing Middleware-based Internet of Things systems for Smart Communities
+
+**MSc Thesis title**: Designing an Edge-based Data Exchange Infrastructure for Smart buildings (Télécom SudParis & Lebanese University, 2021)
