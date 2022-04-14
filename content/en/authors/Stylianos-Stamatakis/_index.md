@@ -4,7 +4,7 @@ name: Stylianos Stamatakis
 
 # Username (this should match the folder name)
 authors:
-- Stylianos-Stamatakis
+  - Stylianos-Stamatakis
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,17 +14,17 @@ role: BS Student
 
 # Organizations/Affiliations
 organizations:
-- name: FORTH ICS
-  url: "https://ics.forth.gr/"
-- name: U of Crete
-  url: "https://en.uoc.gr/"
+  - name: FORTH ICS
+    url: "https://ics.forth.gr/"
+  - name: U of Crete
+    url: "https://en.uoc.gr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Internet of Things, Data Engineering and programmable matter.
 
 interests:
-  - Data Engineering
   - Internet of Things
+  - Data Engineering
   - Software Enginering
 
 education:
@@ -59,6 +59,9 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "stylianos.stamatakis@gmail.com"
   
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
