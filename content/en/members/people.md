@@ -7,7 +7,6 @@ widget: people
 headless: true
 
 title: Meet the Team
-subtitle:
 
 content:
   # Choose which groups/teams of users to display.
@@ -26,7 +25,11 @@ content:
     - Former BS Students
     - Former MS Students
     - Software Engineer
-  
+
+
+author: 'admin'
+
+
 design:
   show_organizations: true
   show_interests: true

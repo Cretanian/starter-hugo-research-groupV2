@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Stylianos Stamatakis
+title: Stylianos Stamatakis
 
 # Username (this should match the folder name)
 authors:
