@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BS Student
+role: BS Student (University of Crete)
 
 # Organizations/Affiliations
 organizations:
