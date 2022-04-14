@@ -25,6 +25,7 @@ content:
     - Former PhD Students
     - Former BS Students
     - Former MS Students
+    - Software Engineer
   
 design:
   show_organizations: true
