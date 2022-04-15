@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MS Student (ISEP)
+role: MS Student (Institut supérieur d’électronique de Paris)
 
 # Organizations/Affiliations
 organizations:
