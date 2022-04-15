@@ -26,7 +26,7 @@ content:
   coordinates:
     longitude: '2.443393315594366'
     latitude: '48.625245547208046'
-  directions: Enter Building E and take the the elevator to Office 304 on Floor 3 \textcolor{red}{fix this}
+  directions: Enter Building E and take the the elevator to Office 304 on Floor 3 \textcolor{fix this}{red}
   office_hours:
     - 'Monday ______ to ____ \textcolor{red}{fix this}'
     - 'Wednesday ________ to _____ \textcolor{red}{fix this}'
