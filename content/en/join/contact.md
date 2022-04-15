@@ -28,9 +28,8 @@ content:
     latitude: '48.625245547208046'
   directions: Enter Building E and take the the elevator to Office 304 on Floor 3
   office_hours:
-    - 'Monday ______ to ____'
-    - 'Wednesday ________ to _____'
-    - 'add more here'
+    - 'Monday ______ to ____ \textcolor{red}{fix this}'
+    - 'Wednesday ________ to _____ \textcolor{red}{fix this}'
 
   # Automatically link email and phone or display as text?
   autolink: true
