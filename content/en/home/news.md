@@ -11,7 +11,7 @@ content:
   count: 5
   offset: 0
   order: desc
-# page_type: post
+page_type: post
 design:
   view: 1
   columns: '1'
