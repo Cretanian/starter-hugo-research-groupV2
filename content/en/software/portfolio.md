@@ -39,7 +39,7 @@ content:
 
 design:
   columns: '1'
-  view: Card
+  view: masonry
   flip_alt_rows: false
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
