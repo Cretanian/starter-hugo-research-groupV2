@@ -38,7 +38,7 @@ content:
       tag: soa
 
 design:
-  columns: '2'
+  columns: '1'
   view: Card
   flip_alt_rows: false
   background: {}
