@@ -8,7 +8,7 @@ title: Latest News
 subtitle:
 
 content:
-  count: 5
+  count: 3
   offset: 0
   order: desc
 page_type: post
