@@ -45,4 +45,6 @@ content:
 
 design:
   columns: '1'
+  spacing: {padding: [-5, 0, 0, 0]}
+
 ---
