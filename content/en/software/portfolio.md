@@ -39,8 +39,8 @@ content:
 
 design:
   columns: '1'
-  view: masonry
+  view: Card
   flip_alt_rows: false
   background: {}
-  spacing: {padding: [0, 0, 0, 0]}
+  spacing: {padding: [10, 0, 10, 0]}
 ---
