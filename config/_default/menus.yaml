@@ -16,9 +16,9 @@ main:
   - name: Members
     url: members
     weight: 40
+  - name: News
+    url: posts
+    weight: 50
   - name: Join
     url: join
-    weight: 50
-  - name: About Us
-    url: aboutUs
     weight: 60
