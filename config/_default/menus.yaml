@@ -17,7 +17,7 @@ main:
     url: members
     weight: 40
   - name: News
-    url: posts
+    url: post
     weight: 50
   - name: Join
     url: join
